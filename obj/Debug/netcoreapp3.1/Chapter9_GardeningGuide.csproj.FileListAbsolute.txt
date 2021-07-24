@@ -1,0 +1,15 @@
+C:\Users\Ethan\source\VisualStudioRepos\Chapter9_GardeningGuide\bin\Debug\netcoreapp3.1\Chapter9_GardeningGuide.exe
+C:\Users\Ethan\source\VisualStudioRepos\Chapter9_GardeningGuide\bin\Debug\netcoreapp3.1\Chapter9_GardeningGuide.deps.json
+C:\Users\Ethan\source\VisualStudioRepos\Chapter9_GardeningGuide\bin\Debug\netcoreapp3.1\Chapter9_GardeningGuide.runtimeconfig.json
+C:\Users\Ethan\source\VisualStudioRepos\Chapter9_GardeningGuide\bin\Debug\netcoreapp3.1\Chapter9_GardeningGuide.runtimeconfig.dev.json
+C:\Users\Ethan\source\VisualStudioRepos\Chapter9_GardeningGuide\bin\Debug\netcoreapp3.1\Chapter9_GardeningGuide.dll
+C:\Users\Ethan\source\VisualStudioRepos\Chapter9_GardeningGuide\bin\Debug\netcoreapp3.1\Chapter9_GardeningGuide.pdb
+C:\Users\Ethan\source\VisualStudioRepos\Chapter9_GardeningGuide\obj\Debug\netcoreapp3.1\Chapter9_GardeningGuide.csproj.AssemblyReference.cache
+C:\Users\Ethan\source\VisualStudioRepos\Chapter9_GardeningGuide\obj\Debug\netcoreapp3.1\Chapter9_GardeningGuide.Form1.resources
+C:\Users\Ethan\source\VisualStudioRepos\Chapter9_GardeningGuide\obj\Debug\netcoreapp3.1\Chapter9_GardeningGuide.csproj.GenerateResource.cache
+C:\Users\Ethan\source\VisualStudioRepos\Chapter9_GardeningGuide\obj\Debug\netcoreapp3.1\Chapter9_GardeningGuide.AssemblyInfoInputs.cache
+C:\Users\Ethan\source\VisualStudioRepos\Chapter9_GardeningGuide\obj\Debug\netcoreapp3.1\Chapter9_GardeningGuide.AssemblyInfo.cs
+C:\Users\Ethan\source\VisualStudioRepos\Chapter9_GardeningGuide\obj\Debug\netcoreapp3.1\Chapter9_GardeningGuide.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\source\VisualStudioRepos\Chapter9_GardeningGuide\obj\Debug\netcoreapp3.1\Chapter9_GardeningGuide.dll
+C:\Users\Ethan\source\VisualStudioRepos\Chapter9_GardeningGuide\obj\Debug\netcoreapp3.1\Chapter9_GardeningGuide.pdb
+C:\Users\Ethan\source\VisualStudioRepos\Chapter9_GardeningGuide\obj\Debug\netcoreapp3.1\Chapter9_GardeningGuide.genruntimeconfig.cache
