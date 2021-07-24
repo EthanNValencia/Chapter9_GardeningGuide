@@ -17,5 +17,18 @@ namespace Chapter9_GardeningGuide
             InitializeComponent();
         }
 
+        private void lstBoxTrees_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            this.txtBoxTrees.Text = " ";
+            foreach(int treeIndex in lstBoxTrees.SelectedIndices)
+            {
+                this.txtBoxTrees.Text += lstBoxTrees.Items[treeIndex] + " ";
+            }
+        }
+
+        private void comboBoxFlowers_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            this.txtBoxFlower.Text = this.comboBoxFlowers.SelectedItem.ToString();
+        }
     }
 }
